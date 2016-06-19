@@ -1,2 +1,3 @@
-# _simpleWebsite
-A simple website using Logiks Router
+# _simply
+
+A simple logiks app using Logiks Router for routing incoming requests.
